@@ -36,12 +36,14 @@ function App() {
           </div>
         </aside>
         {/* Main content */}
+        
         <div className="container text-center">
           <main className="flex-grow-1 p-4">
             {/* input ด้านบน*/}
             <div className="m-2 p-2">
               <form className="row">
                 <div className="col-10">
+                  <p>Benyaporn Udomsilapasub</p>
                   <input
                     className="form-control"
                     type="text"
