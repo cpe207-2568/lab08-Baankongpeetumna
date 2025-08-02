@@ -49,8 +49,8 @@ function App() {
       {/* Footer ด้านล่าง */}
       <Footer
         year="2026"
-        fullName="Dome Potikanond"
-        studentId="640610999"
+        fullName="Benyaporn Udomsilapasub"
+        studentId="670610714"
       ></Footer>
     </div>
   );
